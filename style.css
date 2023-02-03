@@ -12,12 +12,22 @@ img{
     text-align:start; 
 }
 
-.s{
+.scritte{
     color: ghostwhite;
-    text-align:initial;
 }
 
 body{
     background-color: black;
 }
 
+a{
+    color: ghostwhite;
+}
+
+ .c{
+    color: ivory;
+ }
+
+ .b{
+    color: ivory;;
+ }
