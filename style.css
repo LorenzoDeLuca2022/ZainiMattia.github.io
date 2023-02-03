@@ -1,35 +1,23 @@
 img{
     border-radius: 50%;
 }
-.center-box{
+.Immagine{
     display: flex;
-    justify-content: center;
+    justify-content:left;
+}
+.Titolo{
+    color: ghostwhite;
+    font-family:fantasy;
+    font-size: 5rem;
+    text-align:start; 
+}
+
+.s{
+    color: ghostwhite;
+    text-align:initial;
 }
 
 body{
     background-color: black;
 }
 
-.totti {
-    color: aquamarine;
-    text-align: center;
-    font-size: 6rem;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-
-h2{
-    color: aquamarine;
-    font-size: 3rem;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-p{
-    color: aquamarine;
-    font-size: 1.35rem;
-}
-
-h3{
-    color: aquamarine ;
-    font-size: 1.7rem;
-}
