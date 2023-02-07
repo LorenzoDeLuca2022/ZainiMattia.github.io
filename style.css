@@ -6,15 +6,13 @@ img{
     justify-content:left;
 }
 .Titolo{
-    color: ghostwhite;
+    color: ivory;
     font-family:fantasy;
     font-size: 5rem;
-    text-align:start; 
+    text-align:left; 
 }
 
-.scritte{
-    color: ghostwhite;
-}
+
 
 body{
     background-color: black;
@@ -25,9 +23,43 @@ a{
 }
 
  .c{
-    color: ivory;
+    color:ghostwhite;
  }
 
- .b{
-    color: ivory;;
+
+ .f{
+    font-size:x-large;
+    color:ghostwhite;
  }
+    
+ 
+
+ li{
+    font-style: oblique;
+ }
+
+ .g{
+    color:ghostwhite ;
+    font-size: 3rem;
+    line-height: 2%;
+ }
+
+.Im2{
+    display: flex;
+    justify-content: center;
+}
+
+.Uni{
+    font-size: 37px;
+}
+
+.Banana{
+    
+    color: ghostwhite;
+    font-size: 25px;
+}
+
+.stat{
+    display: flex;
+    justify-content: center;
+}
